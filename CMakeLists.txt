@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 3.17)
 project(marcli C)
+set(LINKER_LANGUAGE C)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR})
 set(MARCLI_SRC ${PROJECT_SOURCE_DIR}/src)
