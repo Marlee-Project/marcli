@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/marcli.dir/marcli.c.o CMakeFiles/marcli.dir/src/marcli_util.c.o -o ../marcli 

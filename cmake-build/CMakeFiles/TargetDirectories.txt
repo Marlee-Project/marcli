@@ -1,0 +1,3 @@
+/home/marlee/programming/marcli/cmake-build/CMakeFiles/rebuild_cache.dir
+/home/marlee/programming/marcli/cmake-build/CMakeFiles/edit_cache.dir
+/home/marlee/programming/marcli/cmake-build/CMakeFiles/marcli.dir
