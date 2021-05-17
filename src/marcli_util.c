@@ -8,6 +8,15 @@
 #endif
 
 
+void marcli_platform_test() {
+  #ifdef PLATFORM_UNIX
+    printf("Hello Unix\n");
+  #endif
+
+  printf("marlci_platform_test\n");
+
+}
+
 void marcli_clear_screen() {
   system(CLEAR_STRING);
 }
