@@ -11,7 +11,7 @@
 void marcli_platform_test() {
   #ifdef PLATFORM_UNIX
     printf("Hello Unix\n");
-  #elif PLATFORM_WIN
+  #elifdef PLATFORM_WIN
     printf("Hello Win\n");
   #endif
 
