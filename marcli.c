@@ -24,12 +24,8 @@
 //     return 0;
 // }
 #include "marcli.h"
-#ifdef PLATFORM_UNIX
-#include <termios.h>
-#endif
 
 int main(int argc, char const *argv[]) {
   marcli_platform_test();
-  printf("Lol\n");
   return 0;
 }
